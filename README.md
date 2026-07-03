@@ -27,5 +27,22 @@
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
