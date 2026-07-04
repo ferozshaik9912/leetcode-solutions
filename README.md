@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
