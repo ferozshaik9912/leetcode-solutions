@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
