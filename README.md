@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
