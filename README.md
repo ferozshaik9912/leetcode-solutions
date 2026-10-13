@@ -63,6 +63,7 @@
 | [0595-big-countries](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
