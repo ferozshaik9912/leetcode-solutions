@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1148-article-views-i) |
