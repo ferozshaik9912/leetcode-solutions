@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0412-fizz-buzz) |
