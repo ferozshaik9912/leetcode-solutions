@@ -25,6 +25,7 @@
 | [0657-robot-return-to-origin](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -46,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
