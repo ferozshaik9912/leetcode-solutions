@@ -26,6 +26,7 @@
 | [0709-to-lower-case](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/ferozshaik9912/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
